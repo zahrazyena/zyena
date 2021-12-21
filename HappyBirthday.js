@@ -1,4 +1,4 @@
-var count = new Date("august 28, 2021 00:00:00").getTime();
+var count = new Date("january 6, 2022 00:00:00").getTime();
 
 var x = setInterval(function() {
 
